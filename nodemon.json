@@ -1,0 +1,3 @@
+{
+    "ignore": ["backup", "backup_js", "node_modules", "logs", "package.json", "package-lock.json", "src", ".eslintrc.js", "ecosystem.config.js"]
+}

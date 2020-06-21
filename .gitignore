@@ -1,0 +1,16 @@
+.DS_Store
+node_modules
+backup
+backup_js
+backup_mongo
+src/.env
+dist/.env
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
