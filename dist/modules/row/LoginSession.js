@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.LoginSession = void 0;
 const __1 = require("..");
 const bcrypt = require("bcrypt");
 const Row_1 = require("./Row");

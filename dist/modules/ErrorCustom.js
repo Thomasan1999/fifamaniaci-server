@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.ErrorCustom = void 0;
 class ErrorCustom {
     constructor({ at, err }) {
         this.value = { at, err };

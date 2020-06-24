@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.PgClient = void 0;
 const Pg = require("pg");
 const dotenv = require("dotenv");
 class PgClient {

@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.LeagueFinalPositions = void 0;
 const Table_1 = require("./Table");
 const __1 = require("..");
 class LeagueFinalPositions extends Table_1.Table {

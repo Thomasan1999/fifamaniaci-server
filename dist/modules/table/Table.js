@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.Table = void 0;
 const pgFormat = require("pg-format");
 const Row_1 = require("../row/Row");
 const types_1 = require("../types");

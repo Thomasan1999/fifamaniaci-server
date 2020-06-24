@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.Rand = void 0;
 class Rand {
     static float({ min = 0, max = Number.MAX_SAFE_INTEGER } = {}) {
         return (Math.random() * (max - min)) + min;

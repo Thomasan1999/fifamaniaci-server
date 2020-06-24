@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.VueNumber = void 0;
 class VueNumber extends Number {
     get currencyFormat() {
         return new Intl.NumberFormat(`sk-SK`, {

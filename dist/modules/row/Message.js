@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.Message = void 0;
 const __1 = require("..");
 const _1 = require(".");
 const categories_1 = require("../../locales/sk/categories");

@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.LeagueTableRecord = void 0;
 const __1 = require("..");
 const _1 = require(".");
 const Moment = require("moment-timezone");

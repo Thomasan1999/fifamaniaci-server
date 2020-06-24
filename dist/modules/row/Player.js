@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.Player = void 0;
 const __1 = require("..");
 const Row_1 = require("./Row");
 class Player extends Row_1.Row {

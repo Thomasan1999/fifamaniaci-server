@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.Tomwork = void 0;
 const equalIs = require("fast-deep-equal");
 const Moment = require("moment-timezone");
 const types_1 = require("./types");

@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.VueDate = void 0;
 class VueDate extends Date {
     format(format) {
         const [date, time] = format.split(` `);

@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.Row = void 0;
 const Tomwork_1 = require("../Tomwork");
 class Row {
     constructor({ io, pg, query = {}, req, res, value = {} } = {}) {

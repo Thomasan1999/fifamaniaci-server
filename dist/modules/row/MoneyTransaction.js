@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.MoneyTransaction = void 0;
 const __1 = require("..");
 const Row_1 = require("./Row");
 const LeagueSeasons_1 = require("../table/LeagueSeasons");

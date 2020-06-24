@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.Match = void 0;
 const Moment = require("moment-timezone");
 const pgFormat = require("pg-format");
 const _1 = require(".");

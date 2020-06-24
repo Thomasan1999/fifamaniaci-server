@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.Cookies = void 0;
 class Cookies {
     constructor({ value }) {
         this.value = value ? Cookies.parse({ value }) : {};

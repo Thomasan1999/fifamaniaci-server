@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.Users = void 0;
 const Table_1 = require("./Table");
 class Users extends Table_1.Table {
     static onlineLookup() {

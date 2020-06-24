@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.SocketCookies = void 0;
 const _1 = require(".");
 const row_1 = require("./row");
 class SocketCookies extends _1.Cookies {

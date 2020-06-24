@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.Query = void 0;
 const Param_1 = require("./param/Param");
 const Moment = require("moment-timezone");
 const types_1 = require("./types");

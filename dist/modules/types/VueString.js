@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.VueString = void 0;
 const remove_accents_1 = require("remove-accents");
 const dictionary_1 = require("../../locales/sk/dictionary");
 const __1 = require("..");

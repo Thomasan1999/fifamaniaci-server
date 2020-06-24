@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.LeagueRegistrations = void 0;
 const pgFormat = require("pg-format");
 const index_1 = require(".//index");
 const LeagueSeasons_1 = require("./LeagueSeasons");

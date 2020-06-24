@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.Param = void 0;
 const __1 = require("..");
 const params_1 = require("./params");
 const types_1 = require("./types");

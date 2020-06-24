@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.UserUsernameInGame = void 0;
 const Row_1 = require("./Row");
 const ErrorCustom_1 = require("../ErrorCustom");
 const __1 = require("..");

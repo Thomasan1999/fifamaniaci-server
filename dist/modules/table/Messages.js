@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.Messages = void 0;
 const Table_1 = require("./Table");
 class Messages extends Table_1.Table {
     static tabLookup({ query }) {

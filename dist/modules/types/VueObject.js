@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.VueObject = void 0;
 const VueString_1 = require("./VueString");
 class VueObject {
     constructor(object = {}) {

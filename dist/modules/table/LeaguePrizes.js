@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.LeaguePrizes = void 0;
 const Table_1 = require("./Table");
 const NumericRange = require("numeric-range");
 const __1 = require("..");
